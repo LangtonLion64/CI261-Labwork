@@ -1,0 +1,272 @@
+
+ball_assets.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+stretchingBall0001
+  rotate: false
+  xy: 2, 506
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
+stretchingBall0002
+  rotate: false
+  xy: 2, 2
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
+stretchingBall0003
+  rotate: false
+  xy: 501, 506
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
+stretchingBall0004
+  rotate: false
+  xy: 501, 2
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
+
+ball_assets2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+stretchingBall0005
+  rotate: false
+  xy: 2, 506
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
+stretchingBall0006
+  rotate: false
+  xy: 2, 2
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
+stretchingBall0007
+  rotate: false
+  xy: 501, 506
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
+stretchingBall0008
+  rotate: false
+  xy: 501, 2
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
+
+ball_assets3.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+stretchingBall0009
+  rotate: false
+  xy: 2, 506
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
+stretchingBall0010
+  rotate: false
+  xy: 2, 2
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
+stretchingBall0011
+  rotate: false
+  xy: 501, 506
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
+stretchingBall0012
+  rotate: false
+  xy: 501, 2
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
+
+ball_assets4.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+stretchingBall0013
+  rotate: false
+  xy: 2, 506
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
+stretchingBall0014
+  rotate: false
+  xy: 2, 2
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
+stretchingBall0015
+  rotate: false
+  xy: 501, 506
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
+stretchingBall0016
+  rotate: false
+  xy: 501, 2
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
+
+ball_assets5.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+stretchingBall0017
+  rotate: false
+  xy: 2, 506
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
+stretchingBall0018
+  rotate: false
+  xy: 2, 2
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
+stretchingBall0019
+  rotate: false
+  xy: 501, 506
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
+stretchingBall0020
+  rotate: false
+  xy: 501, 2
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
+
+ball_assets6.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+stretchingBall0021
+  rotate: false
+  xy: 2, 506
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
+stretchingBall0022
+  rotate: false
+  xy: 2, 2
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
+stretchingBall0023
+  rotate: false
+  xy: 501, 506
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
+stretchingBall0024
+  rotate: false
+  xy: 501, 2
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
+
+ball_assets7.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+stretchingBall0025
+  rotate: false
+  xy: 2, 506
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
+stretchingBall0026
+  rotate: false
+  xy: 2, 2
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
+stretchingBall0027
+  rotate: false
+  xy: 501, 506
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
+stretchingBall0028
+  rotate: false
+  xy: 501, 2
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
+
+ball_assets8.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+stretchingBall0029
+  rotate: false
+  xy: 2, 506
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
+stretchingBall0030
+  rotate: false
+  xy: 2, 2
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
+stretchingBall0031
+  rotate: false
+  xy: 501, 506
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
+stretchingBall0032
+  rotate: false
+  xy: 501, 2
+  size: 497, 502
+  orig: 497, 502
+  offset: 0, 0
+  index: -1
